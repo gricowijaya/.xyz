@@ -18,6 +18,11 @@ name = "~/about"
 weight = 1
 url = "/about"
 
+[[menu.main]]
+name = "~/resume"
+weight = 2 
+url = "/static/pdf/resume.pdf"
+
 [params]
 mode="toggle" # color-mode → light,dark,toggle or auto
 useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
