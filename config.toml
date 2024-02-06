@@ -1,0 +1,43 @@
+baseURL = "https://gricowijaya.xyz"
+languageCode = 'en-us'
+title = "welcome@gricowijaya.xyz"
+theme = "archie"
+copyright = "© Gede Rico Wijaya"
+
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+# [[menu.main]]
+# name = "~/posts"
+# weight = 0
+# url = "/posts"
+
+[[menu.main]]
+name = "~/about"
+weight = 1
+url = "/about"
+
+[params]
+mode="toggle" # color-mode → light,dark,toggle or auto
+useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+subtitle = "Welcome.... Please click on the menu above more information, Thank You!"
+mathjax = true # enable MathJax support
+katex = true # enable KaTeX support
+
+
+[[params.social]]
+name = "github"
+icon= "github"
+url = "https://github.com/gricowijaya"
+
+[[params.social]]
+name = "linkedin"
+icon= "linkedin"
+url = "https://www.linkedin.com/in/gricowijaya"
+
+[[params.social]]
+name = "email"
+icon= "mail"
+url = "mailto:gricowijaya@gmail.com"
+
