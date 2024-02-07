@@ -1,4 +1,4 @@
-baseURL = "https://gricowijaya.xyz"
+baseURL = ["https://gricowijaya.xyz", "https://gricowijaya.netlify.app/", "localhost"]
 languageCode = 'en-us'
 title = "welcome@gricowijaya.xyz"
 theme = "archie"
