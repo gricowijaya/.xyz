@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Information Security"
-date: 2024-03-23T02:01:58+05:30
+date: 2024-03-22T02:06:48+05:30
 description: "Keamanan Informasi merupakan sebuah hal yang sangat penting dalam dunia IT dan bisnis artikel ini membahas mengenai pemahanan keamanan informasi."
 tags: [security, theory, cryptography]
 ---
@@ -32,11 +32,11 @@ Kriptografi memainkan peran penting dalam keamanan informasi dengan menyediakan 
 * **Asymmetric**: Menggunakan sepasang kunci (publik dan privat) untuk enkripsi dan dekripsi, seperti **Rivest-Shamir-Adleman [(RSA)](https://www.rsa.com/)**.
 * **Hash**: Mengubah data masukan menjadi serangkaian karakter dengan ukuran tetap, yang unik untuk data input, seperti **Message Digest Algorithm 5 [(MD5)](https://www.howtogeek.com/67241/htg-explains-what-are-md5-sha-1-hashes-and-how-do-i-check-them/)**, **Secure Hash Algorihtm [(SHA-1)](https://en.wikipedia.org/wiki/SHA-1)**.
 
-## Kesimpulan
+# Kesimpulan
 
 Keamanan informasi adalah bidang yang membutuhkan pendekatan komprehensif untuk melindungi aset digital. Dengan memahami prinsip-prinsip keamanan informasi, memanfaatkan teknik kriptografi, dan menerapkan langkah-langkah keamanan pada teknologi informasi, setiap individu, organisasi pemerintahan dapat secara signifikan mengurangi eksposur risiko mereka terhadap ancaman siber.
 
-### Reference
+# Reference
 
 * Rhodes-Ousley, Mark,“Information Security: The Complete Reference“, McGraw Hill, New York, 2013
 * Kurniawan, Yusuf, “Kriptografi Keamanan Internet dan Jaringan Komunikasi”, Informatika Bandung, Bandung, 2004
