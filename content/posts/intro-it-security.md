@@ -5,6 +5,16 @@ description: "Keamanan Informasi merupakan sebuah hal yang sangat penting dalam 
 tags: [security, theory, cryptography]
 ---
 
+Gede Rico Wijaya 20055551091
+
+Keamanan Informasi (E)
+
+Dosen Pengampu: **I Putu Agus Eka Pratama, S.T., M.T.**
+
+Program Studi Teknologi Informasi, Fakultas Teknik, Universitas Udayana
+
+---
+
 Infomation Security atau Keamanan Informasi menjadi salah satu topik yang penting dalam dunia era digital ini karena menjadi suatu ketergantungan bagi banyak khalayak masyarakat.      
 
 Semua individu, organisasi, dan pemerintahan harus memiliki kesadaran akan pentingnya Keamanan Informasi dikarenakan setiap harinya potensi ancaman siber meningkat.

@@ -5,6 +5,16 @@ description: "Security Audit merupakan salah satu subjek topik untuk keamanan in
 tags: [audit, practical, tools, security]
 ---
 
+Gede Rico Wijaya 20055551091
+
+Keamanan Informasi (E)
+
+Dosen Pengampu: **I Putu Agus Eka Pratama, S.T., M.T.**
+
+Program Studi Teknologi Informasi, Fakultas Teknik, Universitas Udayana
+
+---
+
 Keamanan informasi membutuhkan pendekatan komprehensif untuk melindungi aset digital yang sudah ditulis pada artikel [Introduction to Information Security](http://localhost:1313/posts/intro-it-security/). Dengan memahami prinsip-prinsip keamanan informasi, memanfaatkan teknik kriptografi, melakukan audit rutin, dan menerapkan langkah-langkah keamanan jaringan yang kuat, organisasi dapat secara signifikan mengurangi risiko mereka terhadap ancaman siber.
 
 Audit Rutin ini dilakukan untuk identifikasi sebuah komputer dengan kerentanan yang berujung rekomendasi untuk mengatasi kerentanan yang ada pada komputer atau layanan yang akan diaudit. Tools yang akan dibahas pada artikel ini adalah `lynis` yang dapat diinstall pada Distribusi Sistem Operasi Linux favorit anda.  
