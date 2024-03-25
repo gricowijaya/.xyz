@@ -29,12 +29,11 @@ weight = 3
 url = "/static/pdf/resume.pdf"
 
 [params]
-mode="toggle" # color-mode → light,dark,toggle or auto
-useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+mode="auto" # color-mode → light,dark,toggle or auto
+useCDN=true # don't use CDNs for fonts and icons, instead serve them locally.
 subtitle = "Welcome.... Please click on the menu above more information, Thank You!"
 mathjax = true # enable MathJax support
 katex = true # enable KaTeX support
-
 
 [[params.social]]
 name = "github"
