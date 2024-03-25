@@ -19,8 +19,13 @@ weight = 1
 url = "/about"
 
 [[menu.main]]
+name = "~/posts"
+weight = 2
+url = "/posts"
+
+[[menu.main]]
 name = "~/resume"
-weight = 2 
+weight = 3
 url = "/static/pdf/resume.pdf"
 
 [params]
